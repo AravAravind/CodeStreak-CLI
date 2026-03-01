@@ -1,1 +1,2 @@
 2026-02-28 - I've made a streak logger today
+2026-03-01 - Built and deployed a modern React weather app with 5-day forecast, temperature toggle, dynamic UI, and GitHub Pages hosting.
