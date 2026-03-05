@@ -2,4 +2,4 @@
 2026-03-01 - Built and deployed a modern React weather app with 5-day forecast, temperature toggle, dynamic UI, and GitHub Pages hosting.
 2026-03-02 - Built and deployed a simple Pomodoro-style Focus Timer web app using HTML, CSS, and JavaScript.
 2026-03-03 - Analyzed global economic indicators and explored country patterns using data analysis and clustering.
-2026-03-04 - Analyzed global EV adoption trends and built models to study factors driving electric vehicle growth..
+2026-03-04 - Analyzed global EV adoption trends and built models to study factors driving electric vehicle growth..2026-03-05 - Analyzed 30 years of Mercedes-Benz stock data to study trends, volatility, and build a simple price prediction model.
