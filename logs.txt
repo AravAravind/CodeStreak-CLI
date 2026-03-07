@@ -4,3 +4,4 @@
 2026-03-03 - Analyzed global economic indicators and explored country patterns using data analysis and clustering.
 2026-03-04 - Analyzed global EV adoption trends and built models to study factors driving electric vehicle growth..2026-03-05 - Analyzed 30 years of Mercedes-Benz stock data to study trends, volatility, and build a simple price prediction model.
 2026-03-06 - Analyzed Olympic athlete data (1896–2024) to explore participation trends, athlete characteristics, and global medal distribution using Python.
+2026-03-07 - Analyzed 40 years of Microsoft stock data using technical indicators and machine learning to study trends and forecast prices.
