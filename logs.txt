@@ -6,3 +6,4 @@
 2026-03-06 - Analyzed Olympic athlete data (1896�2024) to explore participation trends, athlete characteristics, and global medal distribution using Python.
 2026-03-07 - Analyzed 40 years of Microsoft stock data using technical indicators and machine learning to study trends and forecast prices.
 2026-03-09 - Analyzed FIFA World Cup and football datasets to explore historical winners, goal trends, and global football dominance.
+2026-03-10 - Analyzed ICC T20 World Cup 2026 dataset to explore player performance and tournament statistics.
