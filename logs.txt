@@ -9,3 +9,4 @@
 2026-03-10 - Analyzed ICC T20 World Cup 2026 dataset to explore player performance and tournament statistics.
 2026-03-12 - Built machine learning models and advanced visualizations to analyze antenna performance and detect signal faults.
 2026-03-14 - Analyzed global suicide rate data (2000–2021) to explore geographic patterns, gender differences, and country risk clusters.
+2026-03-15 - Analyzed resume screening data and built a machine learning model to predict candidate hiring decisions.
