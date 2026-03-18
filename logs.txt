@@ -12,3 +12,4 @@
 2026-03-15 - Analyzed resume screening data and built a machine learning model to predict candidate hiring decisions.
 2026-03-16 - Analyzed Netflix user behavior data and built a machine learning model to predict user churn.
 2026-03-17 - Built macro-level analysis to detect commodity price crashes and highlight major economic events.
+2026-03-18 - Analyzed global central bank interest rates to study monetary policy cycles and predict rate movements.
