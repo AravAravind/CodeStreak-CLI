@@ -13,3 +13,4 @@
 2026-03-16 - Analyzed Netflix user behavior data and built a machine learning model to predict user churn.
 2026-03-17 - Built macro-level analysis to detect commodity price crashes and highlight major economic events.
 2026-03-18 - Analyzed global central bank interest rates to study monetary policy cycles and predict rate movements.
+2026-03-19 - Analyzed AI-driven layoffs data to study workforce trends, market reactions, and predict stock impact using machine learning.
