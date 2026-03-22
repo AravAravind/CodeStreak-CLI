@@ -16,3 +16,4 @@
 2026-03-19 - Analyzed AI-driven layoffs data to study workforce trends, market reactions, and predict stock impact using machine learning.
 2026-03-20 - Built UFC fight analytics project with dominance score and prediction model for fight outcomes.
 2026-03-21 - Analyzed global oil price trends with volatility, crisis detection, and forecasting model.
+2026-03-22 - Built a full-scale global population intelligence system with forecasting, ML clustering, and interactive dashboard.
