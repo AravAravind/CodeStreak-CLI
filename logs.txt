@@ -8,7 +8,7 @@
 2026-03-09 - Analyzed FIFA World Cup and football datasets to explore historical winners, goal trends, and global football dominance.
 2026-03-10 - Analyzed ICC T20 World Cup 2026 dataset to explore player performance and tournament statistics.
 2026-03-12 - Built machine learning models and advanced visualizations to analyze antenna performance and detect signal faults.
-2026-03-14 - Analyzed global suicide rate data (2000–2021) to explore geographic patterns, gender differences, and country risk clusters.
+2026-03-14 - Analyzed global suicide rate data (2000ï¿½2021) to explore geographic patterns, gender differences, and country risk clusters.
 2026-03-15 - Analyzed resume screening data and built a machine learning model to predict candidate hiring decisions.
 2026-03-16 - Analyzed Netflix user behavior data and built a machine learning model to predict user churn.
 2026-03-17 - Built macro-level analysis to detect commodity price crashes and highlight major economic events.
@@ -20,3 +20,4 @@
 2026-03-23 - Built a global unemployment analysis with crisis impact, recovery modeling, and country-level insights.
 2026-03-24 - Built an interactive dashboard to analyze global inequality and poverty trends.
 2026-03-25 - Analyzed BTC and ETH 
+2026-03-2 - Analyzed Global Mean temperature 
