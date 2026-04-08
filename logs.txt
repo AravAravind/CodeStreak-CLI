@@ -32,3 +32,4 @@
 2026-04-04 - Set up the backend for my workout tracker, configured MongoDB Atlas, debugged DNS issues, and got the app fully connected.
 2026-04-06 - Analyzed IPL 2026 and F1 race data to uncover performance trends, player impact, and strategy insights.
 2026-04-07 - Analyzed top YouTube channels to understand subscriber and view trends.
+2026-04-08 - Analyzed Top 100 Youtube Channel
