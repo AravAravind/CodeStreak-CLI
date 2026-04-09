@@ -33,3 +33,4 @@
 2026-04-06 - Analyzed IPL 2026 and F1 race data to uncover performance trends, player impact, and strategy insights.
 2026-04-07 - Analyzed top YouTube channels to understand subscriber and view trends.
 2026-04-08 - Analyzed Top 100 Youtube Channel
+2026-04-09 - Analyzed salary trends and AI risk for Business Analyst and Data Analyst roles over time to compare growth and vulnerability.
