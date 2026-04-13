@@ -35,3 +35,5 @@
 2026-04-08 - Analyzed Top 100 Youtube Channel
 2026-04-09 - Analyzed salary trends and AI risk for Business Analyst and Data Analyst roles over time to compare growth and vulnerability.
 2026-04-11 - Analyzed sneaker resale data to uncover profit trends, market behavior, and key factors influencing resale performance.
+2026-04-11 - Daily AI Kaggle Auto-Analysis Pipeline.
+2026-04-13 - Built an end-to-end India fuel price analysis with forecasting and visualization of future trends.
