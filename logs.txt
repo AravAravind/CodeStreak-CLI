@@ -49,3 +49,4 @@
 2026-04-23 - Decoding what makes anime legendary—through data, visuals, and machine learning
 2026-04-24 - Rising temperatures and erratic monsoons are reshaping Maharashtra's seasonal boundaries, shifting the state toward a more extreme and high-stress climate reality.
 2026-04-25 - From sound to strategy—predicting, simulating, and engineering viral music with AI.
+2026-04-26 - Decoding what makes movies unforgettable—through data, story, and machine learning.Turning fertility data into clear, explainable insights for better outcomes.
