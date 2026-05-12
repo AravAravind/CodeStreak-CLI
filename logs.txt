@@ -64,3 +64,6 @@
 2026-05-08 - Advanced E-Commerce Intelligence, Consumer Insights & Sales Trend Analytics
 2026-05-09 - Pokémon Card Pricing Analytics, Market Valuation & Collector Trend Intelligence
 2026-05-10 - Anime Dataset Analytics, Popularity Forecasting & Viewer Engagement Trends
+2026-05-11 - arXiv Research Intelligence, Scientific Paper Analytics & Emerging AI Trends
+2026-05-12 - AI-Powered Fraud Detection, Financial Risk Modeling & Security Intelligence
+
