@@ -83,4 +83,6 @@
 2026-05-27 - Chennai Food Intelligence Dashboard & Consumer Insights
 2026-05-28 - Crime vs Income Intelligence Dashboard & Urban Safety Analytics
 2026-05-29 - Phishing Email Detection 2026 & Cybersecurity Intelligence
+2026-05-30 - Tech Salary Analysis 2026 & Compensation Intelligence
+2026-05-31 - Delhi Air Pollution Crisis 2025–2026
 
